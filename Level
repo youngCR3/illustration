@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-04-10T07:15:06.760Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36 Edg/100.0.1185.36" version="17.4.2" etag="3eaiE7P8wK4wJvH05eRw" type="github"><diagram id="iVnrc2BSymMSKZQ6aJ0L">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-10T07:16:34.425Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36 Edg/100.0.1185.36" etag="39ABdayPdIDUom18Q1Ke" version="17.4.2" type="github">
+  <diagram id="iVnrc2BSymMSKZQ6aJ0L" name="Page-1">
+    <mxGraphModel dx="1347" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bWHdteKL4J6XF0KHPDLS-1" value="Disk Manager" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="354" y="360" width="216" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bWHdteKL4J6XF0KHPDLS-2" value="Buffer Pool Manager" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="354" y="300" width="216" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bWHdteKL4J6XF0KHPDLS-3" value="Access Method" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="354" y="240" width="216" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bWHdteKL4J6XF0KHPDLS-4" value="Operator Execution" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="354" y="180" width="216" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bWHdteKL4J6XF0KHPDLS-5" value="Query Planning" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="354" y="120" width="216" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
